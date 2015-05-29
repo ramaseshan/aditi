@@ -4,8 +4,7 @@ title: Aditi
 locale: en_US
 description: An Admin Theme using Materialize.
 logo: site-logo.png
-search: true
-url: 
+search: false 
 
 # Jekyll configuration
 
