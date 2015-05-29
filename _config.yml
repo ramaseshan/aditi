@@ -6,6 +6,7 @@ description: An Admin Theme using Materialize.
 logo: site-logo.png
 search: false 
 url : 
+baseurl : http://ramaseshan.github.io/aditi
 # Jekyll configuration
 
 permalink:   /:categories/:title/
